@@ -2,12 +2,28 @@
 
 *NOTE:* If I missed your paper, plese feel free to [raise an issue](https://github.com/zhiweichen0012/Weakly-Supervised-Object-Localization-Paper-List/issues).
 
+## 2024
+
+| Title                                                        | Publication |                             PDF                              |                    CODE                    |
+| :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :----------------------------------------: |
+| Exploring Intrinsic Discrimination and Consistency for Weakly Supervised Object Localization | TIP | [PDF](https://ieeexplore.ieee.org/document/10414401) | [CODE](https://github.com/vignywang/IDC) |
+| TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization | TNNLS | [PDF](https://ieeexplore.ieee.org/document/9961149) | [CODE](https://github.com/yuanyao366/ts-cam-extension) |
+| Generalized Weakly Supervised Object Localization | TNNLS | [PDF](https://ieeexplore.ieee.org/document/9899408) | - |
+| Multi-Layer Decoupling Attention Network for Weakly Supervised Object Localization | TMM | [PDF](https://ieeexplore.ieee.org/document/10278493) | - |
+| Discovering an inference recipe for weakly-supervised object localization | PR | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005892) | - |
+| CAM Back Again: Large Kernel CNNs from a Weakly Supervised Object Localization Perspective | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Yasuki_CAM_Back_Again_Large_Kernel_CNNs_from_a_Weakly_Supervised_CVPR_2024_paper.pdf) | [CODE](https://github.com/snskysk/CAM-Back-Again) |
+
+
 ## 2023
 
-| Title                                                        | Venue |                             PDF                              |                    CODE                    |
+| Title                                                        | Publication |                             PDF                              |                    CODE                    |
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :----------------------------------------: |
 | Evaluation for Weakly Supervised Object Localization: Protocol, Metrics, and Datasets | TPAMI | [PDF](https://ieeexplore.ieee.org/document/9762560) | - |
 | Task-Aware Weakly Supervised Object Localization With Transformer | TPAMI | [PDF](https://ieeexplore.ieee.org/document/9996553) | - |
+| SPA<sup>2</sup>Net: Structure-Preserved Attention Activated Network for Weakly Supervised Object Localization | TIP | [PDF](https://ieeexplore.ieee.org/document/10287250) | [CODE](https://github.com/MsterDC/SPA2Net) |
+| Dual-Gradients Localization Framework With Skip-Layer Connections for Weakly Supervised Object Localization | TMM | [PDF](https://ieeexplore.ieee.org/abstract/document/9801654) | - |
+| LocLoc: Low-level Cues and Local-area Guides for Weakly Supervised Object Localization | ACM MM | [PDF](https://dl.acm.org/doi/10.1145/3581783.3612165) | [CODE](https://github.com/Cliffia123/LocLoc) |
+| Rethinking the Localization in Weakly Supervised Object Localization | ACM MM | [PDF](https://dl.acm.org/doi/10.1145/3581783.3611959) | - |
 | Generative Prompt Model for Weakly Supervised Object Localization | ICCV | [PDF](https://arxiv.org/abs/2307.09756) | [CODE](https://github.com/callsys/GenPromp) |
 | Spatial-Aware Token for Weakly Supervised Object Localization | ICCV | [PDF](https://arxiv.org/pdf/2303.10438.pdf) | [CODE](https://github.com/wpy1999/SAT) |
 | Category-aware Allocation Transformer for Weakly Supervised Object Localization | ICCV | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Category-aware_Allocation_Transformer_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) | [CODE](https://github.com/zhiweichen0012/CATR) |
@@ -17,7 +33,7 @@
 
 ## 2022
 
-| Title                                                        | Venue |                             PDF                              |                    CODE                    |
+| Title                                                        | Publication |                             PDF                              |                    CODE                    |
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :----------------------------------------: |
 | Adversarial Transformers for Weakly Supervised Object Localization | TIP | [PDF](https://ieeexplore.ieee.org/abstract/document/9945986) | - |
 | Re-Attention Transformer for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2208.01838.pdf) | [CODE](https://github.com/su-hui-zz/ReAttentionTransformer) |
@@ -38,10 +54,10 @@
 
 ## 2021
 
-| Title                                                        | Venue |                             PDF                              |                        CODE                        |
+| Title                                                        | Publication |                             PDF                              |                        CODE                        |
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :------------------------------------------------: |
 | F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling | WACV |           [PDF](https://arxiv.org/pdf/2109.07069v2.pdf)            | [CODE](https://github.com/sbelharbi/fcam-wsol) |
-| E^2Net : Excitative-Expansile Learning for Weakly Supervised Object Localization | ACM MM |           [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475211)            | [CODE](https://github.com/zhiweichen0012/E2Net) |
+| E2Net : Excitative-Expansile Learning for Weakly Supervised Object Localization | ACM MM |           [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475211)            | [CODE](https://github.com/zhiweichen0012/E2Net) |
 | LayerCAM: Exploring Hierarchical Class Activation Maps for Localization	 | TIP |           [PDF](http://mftp.mmcheng.net/Papers/21TIP_LayerCAM.pdf)            | [CODE](https://github.com/PengtaoJiang/LayerCAM) |
 | Foreground Activation Maps for Weakly Supervised Object Localization	 | ICCV |           [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Foreground_Activation_Maps_for_Weakly_Supervised_Object_Localization_ICCV_2021_paper.pdf)            | - |
 | Online Refinement of Low-level Feature Based Activation Map for Weakly Supervised Object Localization	 | ICCV |           [PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Xie_Online_Refinement_of_Low-Level_Feature_Based_Activation_Map_for_Weakly_ICCV_2021_paper.html)            | [CODE](https://github.com/Sierkinhane/ORNet) |
@@ -53,49 +69,49 @@
 
 ## 2020
 
-| Title                                                        | Venue |                             PDF                              |                       CODE                        |
-| :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :-----------------------------------------------: |
-| Rethinking the Route Towards Weakly Supervised Object Localization | arXiv |         [PDF](https://arxiv.org/pdf/2002.11359.pdf)          |                         [CODE](https://github.com/tzzcl/PSOL)                         |
-| Combinational Class Activation Maps for Weakly Supervised Object Localization | WACV  | [PDF](http://openaccess.thecvf.com/content_WACV_2020/papers/Yang_Combinational_Class_Activation_Maps_for_Weakly_Supervised_Object_Localization_WACV_2020_paper.pdf) |   [CODE](https://github.com/Yangseung/NL-CCAM)    |
-| Rethinking Class Activation Mapping for Weakly Supervised Object Localization | ECCV  | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600613.pdf) |     [CODE](http://vision.snu.ac.kr/projects/rethinking-cam-wsol)     |
-| Inter-Image Communication for Weakly Supervised Localization | ECCV  | [PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640273.pdf) |     [CODE](https://github.com/xiaomengyc/I2C)     |
-| Geometry Constrained Weakly Supervised Object Localization   | ECCV  | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710477.pdf) |                         [CODE](https://github.com/lwzeng/GC-Net)                         |
-| Evaluating Weakly Supervised Object Localization Methods Right | CVPR  |         [PDF](https://arxiv.org/pdf/2001.07437.pdf)          | [CODE](https://github.com/clovaai/wsolevaluation) |
-| Erasing Integrated Learning: A Simple Yet Effective Approach for Weakly Supervised Object Localization | CVPR  | [PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mai_Erasing_Integrated_Learning_A_Simple_Yet_Effective_Approach_for_Weakly_CVPR_2020_paper.pdf) |                         -                         |
+| Title                                                        | Publication |                             PDF                              |                             CODE                             |
+| :----------------------------------------------------------- | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| Rethinking the Route Towards Weakly Supervised Object Localization |    arXiv    |         [PDF](https://arxiv.org/pdf/2002.11359.pdf)          |            [CODE](https://github.com/tzzcl/PSOL)             |
+| Combinational Class Activation Maps for Weakly Supervised Object Localization |    WACV     | [PDF](http://openaccess.thecvf.com/content_WACV_2020/papers/Yang_Combinational_Class_Activation_Maps_for_Weakly_Supervised_Object_Localization_WACV_2020_paper.pdf) |         [CODE](https://github.com/Yangseung/NL-CCAM)         |
+| Rethinking Class Activation Mapping for Weakly Supervised Object Localization |    ECCV     | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600613.pdf) | [CODE](http://vision.snu.ac.kr/projects/rethinking-cam-wsol) |
+| Inter-Image Communication for Weakly Supervised Localization |    ECCV     | [PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640273.pdf) |          [CODE](https://github.com/xiaomengyc/I2C)           |
+| Geometry Constrained Weakly Supervised Object Localization   |    ECCV     | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710477.pdf) |           [CODE](https://github.com/lwzeng/GC-Net)           |
+| Evaluating Weakly Supervised Object Localization Methods Right |    CVPR     |         [PDF](https://arxiv.org/pdf/2001.07437.pdf)          |      [CODE](https://github.com/clovaai/wsolevaluation)       |
+| Erasing Integrated Learning: A Simple Yet Effective Approach for Weakly Supervised Object Localization |    CVPR     | [PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mai_Erasing_Integrated_Learning_A_Simple_Yet_Effective_Approach_for_Weakly_CVPR_2020_paper.pdf) |                              -                               |
 
 ## 2019
 
-| Title                                                                                      | Venue |                                                                                 PDF                                                                                 | CODE  |
-| :----------------------------------------------------------------------------------------- | :---: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: |
-| DANet: Divergent Activation for Weakly Supervised Object Localization                      | ICCV  |      [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_DANet_Divergent_Activation_for_Weakly_Supervised_Object_Localization_ICCV_2019_paper.pdf)      |   -   |
-| Attention-Based Dropout Layer for Weakly Supervised Object Localization                    | CVPR  |    [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf)    |   -   |
-| Learning Instance Activation Maps for Weakly Supervised Instance Segmentation              | CVPR  | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf) |   -   |
-| Dual-attention Focused Module for Weakly Supervised Object Localization                    | arXiv |                                                    [PDF](https://arxiv.org/ftp/arxiv/papers/1909/1909.04813.pdf)                                                    |   -   |
-| Weakly Supervised Object Localization with Inter-Intra Regulated CAMs                      | arXiv |                                                             [PDF](https://arxiv.org/pdf/1911.07160.pdf)                                                             |   -   |
-| Multi-scale discriminative Region Discovery for Weakly-Supervised Object Localization      | arXiv |                                                             [PDF](https://arxiv.org/pdf/1909.10698.pdf)                                                             |   -   |
-| Class Activation Map generation by Multiple Level Class Grouping and Orthogonal Constraint | arXiv |                                                             [PDF](https://arxiv.org/pdf/1909.09839.pdf)                                                             |   -   |
-| Weakly Supervised Localization Using Background Images                                     | arXiv |                                                             [PDF](https://arxiv.org/pdf/1909.03619.pdf)                                                             |   -   |
-| Convolutional STN for Weakly Supervised Object Localization and Beyond                     | arXiv |                                                             [PDF](https://arxiv.org/pdf/1912.01522.pdf)                                                             |   -   |
+| Title                                                        | Publication |                             PDF                              | CODE |
+| :----------------------------------------------------------- | :---------: | :----------------------------------------------------------: | :--: |
+| DANet: Divergent Activation for Weakly Supervised Object Localization |    ICCV     | [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_DANet_Divergent_Activation_for_Weakly_Supervised_Object_Localization_ICCV_2019_paper.pdf) |  -   |
+| Attention-Based Dropout Layer for Weakly Supervised Object Localization |    CVPR     | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Choe_Attention-Based_Dropout_Layer_for_Weakly_Supervised_Object_Localization_CVPR_2019_paper.pdf) |  -   |
+| Learning Instance Activation Maps for Weakly Supervised Instance Segmentation |    CVPR     | [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ahn_Weakly_Supervised_Learning_of_Instance_Segmentation_With_Inter-Pixel_Relations_CVPR_2019_paper.pdf) |  -   |
+| Dual-attention Focused Module for Weakly Supervised Object Localization |    arXiv    | [PDF](https://arxiv.org/ftp/arxiv/papers/1909/1909.04813.pdf) |  -   |
+| Weakly Supervised Object Localization with Inter-Intra Regulated CAMs |    arXiv    |         [PDF](https://arxiv.org/pdf/1911.07160.pdf)          |  -   |
+| Multi-scale discriminative Region Discovery for Weakly-Supervised Object Localization |    arXiv    |         [PDF](https://arxiv.org/pdf/1909.10698.pdf)          |  -   |
+| Class Activation Map generation by Multiple Level Class Grouping and Orthogonal Constraint |    arXiv    |         [PDF](https://arxiv.org/pdf/1909.09839.pdf)          |  -   |
+| Weakly Supervised Localization Using Background Images       |    arXiv    |         [PDF](https://arxiv.org/pdf/1909.03619.pdf)          |  -   |
+| Convolutional STN for Weakly Supervised Object Localization and Beyond |    arXiv    |         [PDF](https://arxiv.org/pdf/1912.01522.pdf)          |  -   |
 
 ## 2018
 
-| Title                                                                                          | Venue |                          PDF                          |                    CODE                    |
-| :--------------------------------------------------------------------------------------------- | :---: | :---------------------------------------------------: | :----------------------------------------: |
-| Adversarial Complementary Learning for Weakly Supervised Object Localization                   | CVPR  |      [PDF](https://arxiv.org/pdf/1804.06962.pdf)      | [CODE](https://github.com/xiaomengyc/ACoL) |
-| Weakly Supervised Instance Segmentation Using Class Peak Response                              | CVPR  |      [PDF](https://arxiv.org/pdf/1804.00880.pdf)      |       [CODE](http://yzhou.work/PRM/)       |
-| Self-produced Guidance for Weakly-supervised Object Localization                               | ECCV  |      [PDF](https://arxiv.org/pdf/1807.08902.pdf)      | [CODE](https://github.com/xiaomengyc/SPG)  |
-| C-WSL: Count-guided Weakly Supervised Localization                                             | ECCV  |      [PDF](https://arxiv.org/pdf/1711.05282.pdf)      |                     -                      |
-| Collaborative Learning for Weakly Supervised Object Detection                                  | IJCAI |      [PDF](https://arxiv.org/pdf/1802.03531.pdf)      |                     -                      |
-| Centralized Ranking Loss with Weakly Supervised Localization for Fine-Grained Object Retrieval | IJCAI | [PDF](http://www.ijcai.org/proceedings/2018/0171.pdf) |                     -                      |
+| Title                                                        | Publication |                          PDF                          |                    CODE                    |
+| :----------------------------------------------------------- | :---------: | :---------------------------------------------------: | :----------------------------------------: |
+| Adversarial Complementary Learning for Weakly Supervised Object Localization |    CVPR     |      [PDF](https://arxiv.org/pdf/1804.06962.pdf)      | [CODE](https://github.com/xiaomengyc/ACoL) |
+| Weakly Supervised Instance Segmentation Using Class Peak Response |    CVPR     |      [PDF](https://arxiv.org/pdf/1804.00880.pdf)      |       [CODE](http://yzhou.work/PRM/)       |
+| Self-produced Guidance for Weakly-supervised Object Localization |    ECCV     |      [PDF](https://arxiv.org/pdf/1807.08902.pdf)      | [CODE](https://github.com/xiaomengyc/SPG)  |
+| C-WSL: Count-guided Weakly Supervised Localization           |    ECCV     |      [PDF](https://arxiv.org/pdf/1711.05282.pdf)      |                     -                      |
+| Collaborative Learning for Weakly Supervised Object Detection |    IJCAI    |      [PDF](https://arxiv.org/pdf/1802.03531.pdf)      |                     -                      |
+| Centralized Ranking Loss with Weakly Supervised Localization for Fine-Grained Object Retrieval |    IJCAI    | [PDF](http://www.ijcai.org/proceedings/2018/0171.pdf) |                     -                      |
 
 ## 2017
 
-| Title                                                                                                  | Venue |                                              PDF                                              |                       CODE                        |
-| :----------------------------------------------------------------------------------------------------- | :---: | :-------------------------------------------------------------------------------------------: | :-----------------------------------------------: |
-| Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization | ICCV  | [PDF](http://krsingh.cs.ucdavis.edu/krishna_files/papers/hide_and_seek/my_files/iccv2017.pdf) | [CODE](https://github.com/kkanshul/Hide-and-Seek) |
+| Title                                                        | Publication |                             PDF                              |                       CODE                        |
+| :----------------------------------------------------------- | :---------: | :----------------------------------------------------------: | :-----------------------------------------------: |
+| Hide-and-Seek: Forcing a Network to be Meticulous for Weakly-supervised Object and Action Localization |    ICCV     | [PDF](http://krsingh.cs.ucdavis.edu/krishna_files/papers/hide_and_seek/my_files/iccv2017.pdf) | [CODE](https://github.com/kkanshul/Hide-and-Seek) |
 
 ## 2016
 
-| Title                                                  | Venue |                             PDF                              |                    CODE                    |
+| Title                                                  | Venue |                         Publication                          |                    CODE                    |
 | :----------------------------------------------------- | :---: | :----------------------------------------------------------: | :----------------------------------------: |
 | Learning Deep Features for Discriminative Localization | CVPR  | [PDF](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf) | [CODE](https://github.com/metalbubble/CAM) |
