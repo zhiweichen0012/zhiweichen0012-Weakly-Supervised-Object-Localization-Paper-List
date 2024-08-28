@@ -12,6 +12,7 @@
 | Multi-Layer Decoupling Attention Network for Weakly Supervised Object Localization | TMM | [PDF](https://ieeexplore.ieee.org/document/10278493) | - |
 | Discovering an inference recipe for weakly-supervised object localization | PR | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005892) | - |
 | CAM Back Again: Large Kernel CNNs from a Weakly Supervised Object Localization Perspective | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Yasuki_CAM_Back_Again_Large_Kernel_CNNs_from_a_Weakly_Supervised_CVPR_2024_paper.pdf) | [CODE](https://github.com/snskysk/CAM-Back-Again) |
+| A Consistency and Integration Model with Adaptive Thresholds for Weakly Supervised Object Localization | IJCAI | [PDF](https://www.ijcai.org/proceedings/2024/0142.pdf) | - |
 
 
 ## 2023
