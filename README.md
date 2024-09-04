@@ -13,6 +13,7 @@
 | Discovering an inference recipe for weakly-supervised object localization | PR | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005892) | - |
 | CAM Back Again: Large Kernel CNNs from a Weakly Supervised Object Localization Perspective | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Yasuki_CAM_Back_Again_Large_Kernel_CNNs_from_a_Weakly_Supervised_CVPR_2024_paper.pdf) | [CODE](https://github.com/snskysk/CAM-Back-Again) |
 | A Consistency and Integration Model with Adaptive Thresholds for Weakly Supervised Object Localization | IJCAI | [PDF](https://www.ijcai.org/proceedings/2024/0142.pdf) | - |
+| Background Noise Reduction of Attention Map for Weakly Supervised Semantic Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2404.03394) | - |
 
 
 ## 2023
