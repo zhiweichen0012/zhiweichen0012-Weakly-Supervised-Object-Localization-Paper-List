@@ -10,7 +10,7 @@
 | TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization | TNNLS | [PDF](https://ieeexplore.ieee.org/document/9961149) | [CODE](https://github.com/yuanyao366/ts-cam-extension) |
 | Generalized Weakly Supervised Object Localization | TNNLS | [PDF](https://ieeexplore.ieee.org/document/9899408) | - |
 | Multi-Layer Decoupling Attention Network for Weakly Supervised Object Localization | TMM | [PDF](https://ieeexplore.ieee.org/document/10278493) | - |
-| Discovering an inference recipe for weakly-supervised object localization | PR | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005892) | - |
+| Discovering an inference recipe for weakly-supervised object localization | PR | [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005892) | [CODE](https://github.com/tkdguraa/WSOL_binarize) |
 | CAM Back Again: Large Kernel CNNs from a Weakly Supervised Object Localization Perspective | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2024/papers/Yasuki_CAM_Back_Again_Large_Kernel_CNNs_from_a_Weakly_Supervised_CVPR_2024_paper.pdf) | [CODE](https://github.com/snskysk/CAM-Back-Again) |
 | A Consistency and Integration Model with Adaptive Thresholds for Weakly Supervised Object Localization | IJCAI | [PDF](https://www.ijcai.org/proceedings/2024/0142.pdf) | - |
 | Improving Weakly-Supervised Object Localization Using Adversarial Erasing and Pseudo Label | arXiv | [PDF](https://arxiv.org/pdf/2404.09475) | - |
@@ -31,7 +31,7 @@
 | Spatial-Aware Token for Weakly Supervised Object Localization | ICCV | [PDF](https://arxiv.org/pdf/2303.10438.pdf) | [CODE](https://github.com/wpy1999/SAT) |
 | Category-aware Allocation Transformer for Weakly Supervised Object Localization | ICCV | [PDF](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Category-aware_Allocation_Transformer_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.pdf) | [CODE](https://github.com/zhiweichen0012/CATR) |
 | Coarse2Fine: Local Consistency Aware Re-prediction for Weakly Supervised Object Localization | AAAI | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25292/25064) | - |
-| SDiscriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization | WACV (Workshops) | [PDF](https://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Murtaza_Discriminative_Sampling_of_Proposals_in_Self-Supervised_Transformers_for_Weakly_Supervised_WACVW_2023_paper.pdf) | [CODE](https://github.com/shakeebmurtaza/dips) |
+| Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization | WACV (Workshops) | [PDF](https://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Murtaza_Discriminative_Sampling_of_Proposals_in_Self-Supervised_Transformers_for_Weakly_Supervised_WACVW_2023_paper.pdf) | [CODE](https://github.com/shakeebmurtaza/dips) |
 | Open-World Weakly-Supervised Object Localization | arXiv | [PDF](https://ieeexplore.ieee.org/abstract/document/9945986) | [CODE](https://github.com/ryylcc/OWSOL) |
 
 ## 2022
